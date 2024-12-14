@@ -46,4 +46,4 @@ The Bank Management System is a complete project designed to manage the operatio
 
 # DB Diagram
 
-![DB Diagram](Files/DB%20Diagram.png)
+![DB Diagram](Img/DB%20Diagram.png)
